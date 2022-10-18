@@ -1,0 +1,8 @@
+aiogram~=2.22.2
+librosa~=0.9.2
+grpcio~=1.41.0
+fastapi~=0.85.0
+uvicorn[standard]~=0.18.3
+ffprobe~=0.5
+tritonclient[all]~=2.26.0
+nemo_toolkit[asr]~=1.12.0

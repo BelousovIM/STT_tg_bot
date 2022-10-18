@@ -1,0 +1,19 @@
+name: stt_service
+
+channels:
+  - conda-forge
+dependencies:
+  - python~=3.10
+  - pip=22.0.4
+  - gcc=9.4.0
+  - Cython
+  - pynini=2.1.4
+  - editdistance=0.6.0
+  - openfst=1.8.1
+  - libsndfile=1.1.0
+  - ffmpeg=4.4.2
+  - python-multipart=0.0.5
+  - python-rapidjson=1.6
+  - youtokentome=1.0.6
+  - pip:
+      - -e .
