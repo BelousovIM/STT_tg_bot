@@ -5,7 +5,7 @@ tg bot: https://t.me/mynalabs_stt_service_bot
 
 ### *Install repository
 ```shell
-git clone https://gitlab.com/BelousovIM/mynalabs.git
+git clone https://github.com/BelousovIM/mynalabs.git
 cd mynalabs && conda env create -f conda-environment.yaml 
 conda activate stt_service
 ```
